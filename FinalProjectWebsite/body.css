@@ -1,0 +1,11 @@
+.body {
+    font-size: 20px;
+    width: 50%;
+    height: 70%;
+    border: solid;
+    border-radius: 5px;
+    backdrop-filter: blur(10px);
+    font-weight: bold;
+    padding: 30px 30px 30px 30px;
+    margin: 0;
+}
